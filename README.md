@@ -1,2 +1,2 @@
-# RTIMULib
-copy of the missing https://github.com/RTIMULib/RTIMULib
+# RTIMULib - a versatile C++ and Python 9-dof, 10-dof and 11-dof IMU library
+
